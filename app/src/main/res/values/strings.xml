@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registro de Mensagens</string>
+    <string name="lbl1">Digite uma mensagem</string>
+    <string name="lblRegistra">Registra a mensagem</string>
+</resources>
